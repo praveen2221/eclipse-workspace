@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[beforeSuite]]>
+    </line>
+    <line>
+      <![CDATA[beforeTest]]>
+    </line>
+    <line>
+      <![CDATA[beforeClass]]>
+    </line>
+    <line>
+      <![CDATA[beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[test]]>
+    </line>
+    <line>
+      <![CDATA[afterMethod]]>
+    </line>
+    <line>
+      <![CDATA[beforeMethod]]>
+    </line>
+    <line>
+      <![CDATA[test2]]>
+    </line>
+    <line>
+      <![CDATA[afterMethod]]>
+    </line>
+    <line>
+      <![CDATA[afterClass]]>
+    </line>
+    <line>
+      <![CDATA[afterTest]]>
+    </line>
+    <line>
+      <![CDATA[afterSuite]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100" started-at="2022-09-27T13:31:27 IST" finished-at="2022-09-27T13:31:27 IST">
+    <groups>
+      <group name="module1">
+        <method signature="LoginTest.test2()[pri:0, instance:Test.LoginTest@3578436e]" name="test2" class="Test.LoginTest"/>
+      </group> <!-- module1 -->
+    </groups>
+    <test name="Default test" duration-ms="100" started-at="2022-09-27T13:31:27 IST" finished-at="2022-09-27T13:31:27 IST">
+      <class name="Test.LoginTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Test.LoginTest@3578436e]" name="beforeSuite" is-config="true" duration-ms="12" started-at="2022-09-27T13:31:27 IST" finished-at="2022-09-27T13:31:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[beforeSuite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Test.LoginTest@3578436e]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-09-27T13:31:27 IST" finished-at="2022-09-27T13:31:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[beforeTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Test.LoginTest@3578436e]" name="beforeClass" is-config="true" duration-ms="1" started-at="2022-09-27T13:31:27 IST" finished-at="2022-09-27T13:31:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[beforeClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.LoginTest@3578436e]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2022-09-27T13:31:27 IST" finished-at="2022-09-27T13:31:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[beforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Test.LoginTest@3578436e]" name="test" duration-ms="13" started-at="2022-09-27T13:31:27 IST" finished-at="2022-09-27T13:31:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.LoginTest@3578436e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-09-27T13:31:27 IST" finished-at="2022-09-27T13:31:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[afterMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test.LoginTest@3578436e]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2022-09-27T13:31:27 IST" finished-at="2022-09-27T13:31:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[beforeMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Test.LoginTest@3578436e]" name="test2" duration-ms="5" started-at="2022-09-27T13:31:27 IST" finished-at="2022-09-27T13:31:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[test2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test.LoginTest@3578436e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-09-27T13:31:27 IST" finished-at="2022-09-27T13:31:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[afterMethod]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Test.LoginTest@3578436e]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-09-27T13:31:27 IST" finished-at="2022-09-27T13:31:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[afterClass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Test.LoginTest@3578436e]" name="afterTest" is-config="true" duration-ms="1" started-at="2022-09-27T13:31:27 IST" finished-at="2022-09-27T13:31:27 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[afterTest]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Test.LoginTest@3578436e]" name="afterSuite" is-config="true" duration-ms="1" started-at="2022-09-27T13:31:28 IST" finished-at="2022-09-27T13:31:28 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[afterSuite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
